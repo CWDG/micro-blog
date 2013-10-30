@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
-group :develoment do
+group :development do
   gem 'sqlite3'
 end
 
